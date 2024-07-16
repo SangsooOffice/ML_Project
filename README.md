@@ -19,7 +19,9 @@ Due to the recent drought, the area of forest dead areas has increased significa
 - Shap (XAI) was used for the interpretation of the results.
 
 # Result
-- After Modeling Result <img src="https://github.com/user-attachments/assets/46c61eea-3264-4341-bc4b-a8109fe800cb" alt="After Modeling Result" style="display: inline; margin-left: 10px;"/>
++ After Modeling Result 
+
+<img src="https://github.com/user-attachments/assets/46c61eea-3264-4341-bc4b-a8109fe800cb" alt="After Modeling Result" style="display: inline; margin-left: 10px;"/>
 
 # contribution
 - Early warning system and disaster preparedness.
