@@ -13,7 +13,7 @@ Due to the recent drought, the area of forest dead areas has increased significa
 - Equalize the number of data for each drought score
 
 **Modeling**
-- Class classification was conducted using Random Forest, AdaBoost, XGBoost, LightGBM, and stacking method
+- Class classification was conducted using Random Forest, AdaBoost, XGBoost, LightGBM method
 
 **XAI**
 - Shap (XAI) was used for the interpretation of the results.
@@ -21,7 +21,7 @@ Due to the recent drought, the area of forest dead areas has increased significa
 # Result
 + After Modeling Result 
 
-<img src="https://github.com/user-attachments/assets/46c61eea-3264-4341-bc4b-a8109fe800cb" alt="After Modeling Result" style="display: inline; margin-left: 10px;"/>
+<img src="https://github.com/user-attachments/assets/0cb0827e-851f-4ccc-abf1-26c7e14c53c4" alt="After Modeling Result" style="display: inline; margin-left: 10px;"/>
 
 # contribution
 - Early warning system and disaster preparedness.
